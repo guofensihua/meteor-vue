@@ -1,7 +1,7 @@
 <template>
   <form class="login-form" @submit.prevent="handleSubmit">
     <div>
-      <label for="username">Username</label>
+      <label for="username">Username123</label>
       <input
         id="username"
         name="username"
